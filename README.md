@@ -14,4 +14,4 @@ This project is a Payroll and Leave Management System developed using Python and
   - Track Payment Status
   - Send Scheduled Emails for Released Payroll
 
-### Documentation:
+### Documentation
