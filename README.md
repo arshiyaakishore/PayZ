@@ -15,3 +15,5 @@ This project is a Payroll and Leave Management System developed using Python and
   - Send Scheduled Emails for Released Payroll
 
 Documentation is uploaded for reference. 
+
+Still improving the UI.
