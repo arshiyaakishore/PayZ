@@ -16,4 +16,4 @@ This project is a Payroll and Leave Management System developed using Python and
 
 Documentation is uploaded for reference. 
 
-Still improving the UI.
+
